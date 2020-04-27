@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ef46d21-b1cd-4a7e-a09b-c4be2d2e915f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/art/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/art/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/art/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/libs/commons-codec-1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/androidTest/java/com/jiang/android/rxjavaapp/ApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/activity/LauncherActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/activity/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/activity/PhotoPagerActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/adapter/BaseAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/adapter/fragmentadapter/FragmentPagerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/adapter/fragmentadapter/PagerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/adapter/fragmentadapter/ViewPager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/adapter/holder/BaseViewHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/adapter/inter/OnItemClickListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/base/BaseActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/base/BaseAppManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/base/BaseWebActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/common/CommonString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/common/OperatorsUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/common/SPKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/database/DaoMaster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/database/DaoSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/database/alloperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/database/alloperatorsDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/database/helper/AllOperatorsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/database/helper/BaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/database/helper/DbCore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/database/helper/DbUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/database/helper/OperatorsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/database/operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/database/operatorsDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/utils/DataUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/utils/L.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/utils/SharePrefUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/utils/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/widget/BrowserLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/java/com/jiang/android/rxjavaapp/widget/HackyViewPager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/drawable-v21/ic_menu_camera.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/drawable-v21/ic_menu_gallery.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/drawable-v21/ic_menu_manage.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/drawable-v21/ic_menu_send.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/drawable-v21/ic_menu_share.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/drawable-v21/ic_menu_slideshow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/drawable-xhdpi/btn_back_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/drawable-xhdpi/btn_back_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/drawable-xhdpi/btn_export_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/drawable-xhdpi/btn_forward_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/drawable-xhdpi/btn_forward_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/drawable-xhdpi/btn_refresh_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/drawable-xhdpi/btn_refresh_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/drawable/delector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/drawable/dialog_topbar_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/drawable/progress_bar_horizontal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/drawable/side_nav_bar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/layout/activity_common_web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/layout/activity_photoview.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/layout/activity_splash.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/layout/app_bar_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/layout/browser_controller.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/layout/common_toolbar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/layout/item_index_content.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/layout/item_nav_head.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/layout/nav_header_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/layout/progress_horizontal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/menu/activity_main_drawer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/menu/main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/values/attrs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/values/drawables.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/app/src/test/java/com/jiang/android/rxjavaapp/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/qrcode/a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/qrcode/wechat_alipay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/release/app-release_v1.8.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/release/app-release_v2.0.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaApp-master/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RxJavaDemo-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApplication/app/src/main/java/com/example/testapplication/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApplication/app/src/main/java/com/example/testapplication/Books.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApplication/app/src/main/java/com/example/testapplication/ImageAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApplication/app/src/main/java/com/example/testapplication/ImageHolderCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApplication/app/src/main/java/com/example/testapplication/NoteConsumeMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApplication/app/src/main/java/com/example/testapplication/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApplication/app/src/main/res/mipmap-xhdpi/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApplication/app/src/main/res/mipmap-xhdpi/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApplication/app/src/main/res/mipmap-xhdpi/image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApplication/app/src/main/res/mipmap-xhdpi/image4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApplication/app/src/main/res/mipmap-xhdpi/image5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/imooc_music_app-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="D:/EtouryApp/Ai/src/main/java/com/etoury/robot/utils/CEditText.java" afterDir="false" />
+      <change afterPath="D:/EtouryApp/Ai/src/main/res/mipmap-xxhdpi/iv_date.png" afterDir="false" />
+      <change afterPath="D:/GaoDe/app/src/main/java/com/example/zss/gaode/ChangeEnglish.java" afterDir="false" />
+      <change afterPath="D:/GaoDe/app/src/main/java/com/example/zss/gaode/db/GreenDaoHelper.java" afterDir="false" />
+      <change afterPath="D:/GaoDe/app/src/main/res/values-en/strings.xml" afterDir="false" />
+      <change afterPath="D:/GaoDe/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="D:/qq/All Users/QQ/Misc/com.tencent.qqshow/35/1043735-465.swf" afterDir="false" />
+      <change afterPath="D:/qq/All Users/QQ/Misc/com.tencent.qqshow/56/1039156-450.swf" afterDir="false" />
+      <change afterPath="D:/qq/All Users/QQ/Misc/com.tencent.qqshow/88/1038988-402.swf" afterDir="false" />
+      <change afterPath="D:/qq/All Users/QQ/Misc/com.tencent.qqshow/88/1038988-482.swf" afterDir="false" />
+      <change afterPath="D:/qq/All Users/QQ/Misc/com.tencent.qqshow/89/1038989-451.swf" afterDir="false" />
+      <change afterPath="D:/qq/All Users/QQ/Misc/com.tencent.qqshow/90/1038990-473.swf" afterDir="false" />
+      <change afterPath="D:/qq/All Users/QQ/Misc/com.tencent.qqshow/91/1038991-469.swf" afterDir="false" />
+      <change afterPath="D:/qq/All Users/QQ/Misc/com.tencent.qqshow/92/1038992-461.swf" afterDir="false" />
+      <change afterPath="D:/qq/All Users/QQ/Misc/com.tencent.qqshow/qqshow4/qqshow_1524478394_v3.png" afterDir="false" />
+      <change afterPath="D:/qq/All Users/QQ/Misc/com.tencent.qqshow/xml4/1524478394_f_v3.xml" afterDir="false" />
+      <change afterPath="D:/qq/All Users/QQ/Misc/com.tencent.qqshow/xml4/1524478394_v3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestApplication/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestApplication/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestApplication/app/src/main/java/com/example/testapplication/f2Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestApplication/app/src/main/java/com/example/testapplication/f2Fragment.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/imooc_music_app-master.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b6w0TSVWAGg6PtTsc5dOIZDrmd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="D:/AndroidSDK/Sdk/android-sdk-windows" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ef46d21-b1cd-4a7e-a09b-c4be2d2e915f" name="Default Changelist" comment="" />
+      <created>1584709006933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584709006933</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

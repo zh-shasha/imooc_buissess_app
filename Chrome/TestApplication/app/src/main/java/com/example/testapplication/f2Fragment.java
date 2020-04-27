@@ -43,7 +43,7 @@ public class f2Fragment extends Fragment {
 //                listener.sendMessage(2);
 //            }
                 if (getActivity() instanceof MainActivity){
-                    ((MainActivity) getActivity()).ShowTest();
+
                 }
 
 
